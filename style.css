@@ -52,6 +52,7 @@ h2 {
   background-image: url(images/Frame\ 59.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
+  background-position: center;
   height: 550px;
   margin-bottom: 80px;
 }
