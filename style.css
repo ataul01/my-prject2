@@ -14,7 +14,7 @@ p {
   font-weight: 500;
 }
 h2 {
-  font-size: 35px;
+  font-size: 32px;
 }
 .flex-container {
   display: flex;
@@ -61,4 +61,62 @@ h2 {
   margin-top: 50px;
   margin-left: 15%;
   height: 90.8%;
+}
+.recipie-text {
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+  align-items: center;
+  color: rgb(87, 85, 85);
+}
+.flex-recipie {
+  display: flex;
+  width: auto;
+  padding-left: 4%;
+  margin-top: 35px;
+}
+.my-recipies {
+  width: 24%;
+  margin-left: 50px;
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 3px 3px 12px rgb(45, 48, 48);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+.my-recipies img {
+  width: 100%;
+  border-radius: 20px;
+}
+.follower {
+  margin-top: 110px;
+  margin-bottom: 100px;
+}
+.follow-div {
+  display: flex;
+  margin-left: 8%;
+  margin-right: 8%;
+  box-shadow: 3px 3px 12px rgb(45, 48, 48);
+  border-radius: 20px;
+  padding: 10px;
+}
+.follow-text {
+  text-align: center;
+  margin-left: 125px;
+  font-family: inherit;
+}
+.footer {
+  text-align: center;
+  background-color: rgb(5, 20, 26);
+  padding-top: 10px;
+  padding-bottom: 100px;
+}
+.food-color {
+  color: rgb(216, 112, 27);
+}
+.net-color {
+  color: gray;
+}
+footer {
+  color: aliceblue;
 }
