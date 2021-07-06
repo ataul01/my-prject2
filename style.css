@@ -7,6 +7,9 @@ h1 {
   font-weight: 700;
   line-height: 30px;
 }
+h2 {
+  font-size: 35px;
+}
 .flex-container {
   display: flex;
   margin-top: 80px;
@@ -34,4 +37,15 @@ h1 {
 }
 .link-middle {
   margin-top: 50px;
+}
+.about-me {
+  background-image: url(images/Frame\ 57.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: left;
+}
+.about-me img {
+  width: 60%;
+  margin-top: 50px;
+  margin-left: 15%;
 }
